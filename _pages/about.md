@@ -7,7 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi my name is **Rebecca Hurwitz** and welcome to my website.
-
-I am a student at **Stanford University** and previously attended **Harvard University** and **University of California, Berkeley**.
-
+Hello! My name is **Rebecca Hurwitz**. I am a PhD student in Biomedical Data Science at Stanford University on exchange for the 2025-2026 school year in the Department of Biostatistics at Harvard University.

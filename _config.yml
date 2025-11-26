@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Rebecca Hurwitz"
   pronouns         : # example: "she/her"  
-  bio              : "PHD Student"
-  location         : "Stanford, CA"
+  bio              : "PhD Student"
+  location         : "Boston, MA"
   employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rebeccahurwitz@g.harvard.edu"
+                   : "rhurwitz@stanford.edu"
 
   # Academic websites
   academia         : # URL

@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Rebecca Hurwitz
+Hi my name is Rebecca Hurwitz and welcome to my website.

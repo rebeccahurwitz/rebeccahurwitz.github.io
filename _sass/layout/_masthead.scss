@@ -27,7 +27,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    padding: 0.5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -62,7 +62,7 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 0;
   }
 }
 
@@ -89,15 +89,15 @@
 
 .breadcrumb {
   @include container;
-  padding: 1em 0;
+  padding: 0.5em 0;
 
   &__item {
     display: inline-block;
-    font-size: 0.875rem;
+    font-size: 0rem;
     color: var(--global-text-color);
 
     &--active {
-      font-weight: 700;
+      font-weight: 0;
     }
 
     &:not(:last-child)::after {
@@ -142,11 +142,11 @@ body {
   padding: 0 1rem;
 
   @include breakpoint($medium) {
-    padding: 0 2rem;
+    padding: 0 1rem;
   }
 
   @include breakpoint($large) {
-    padding: 0 3rem;
+    padding: 0 1rem;
   }
 }
 

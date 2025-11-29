@@ -34,7 +34,7 @@ author:
   email            : "rebeccahurwitz@g.harvard.edu"
 
   # Academic websites
-  academia         : "Harvard University"
+  academia         : # "Harvard University"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=6ull8vEAAAAJ&hl=en"
   inspire-hep      : # URL

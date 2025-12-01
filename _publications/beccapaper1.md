@@ -8,3 +8,5 @@ venue: 'Statistics and Computing'
 citation: 'Hurwitz, R., Hahn, G. “Penalized principal component analysis using smoothing.” Statistics and Computing. (April
 2025). https://doi.org/10.1007/s11222-025-10610-0'
 ---
+Hurwitz, R., Hahn, G. “Penalized principal component analysis using smoothing.” Statistics and Computing. (April
+2025). https://doi.org/10.1007/s11222-025-10610-0

@@ -2,7 +2,6 @@
 title: "Test"
 collection: publications
 category: conferences
-permalink: https://doi.org/10.1007/s11222-025-10610-0
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'

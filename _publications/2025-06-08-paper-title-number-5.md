@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Test"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: https://doi.org/10.1007/s11222-025-10610-0
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'

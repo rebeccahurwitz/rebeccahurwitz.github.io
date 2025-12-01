@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: <a href="test.com">"Test"</a>
 collection: publications
 category: conferences
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'

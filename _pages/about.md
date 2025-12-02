@@ -1,3 +1,4 @@
+<img src="{{ site.url }}{{ site.baseurl }}/images/teaching_banner.jpg" alt="Banner" class="full">
 ---
 permalink: /
 title: ""
@@ -5,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_image: images/teaching_banner.jpg
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

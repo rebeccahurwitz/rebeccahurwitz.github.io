@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/teaching_banner.jpg
+  overlay_image: teaching_banner.jpg
   overlay_filter: 0.3
 ---
 

@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /images/teaching_banner.jpg
+  overlay_filter: 0.3
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

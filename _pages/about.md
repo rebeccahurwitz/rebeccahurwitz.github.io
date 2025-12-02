@@ -1,4 +1,3 @@
-<img src="{{ site.url }}{{ site.baseurl }}/images/teaching_banner.jpg" alt="Banner" class="full">
 ---
 permalink: /
 title: ""

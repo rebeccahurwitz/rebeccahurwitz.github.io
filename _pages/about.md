@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: teaching_banner.jpg
-  overlay_filter: 0.3
+  caption: ""
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

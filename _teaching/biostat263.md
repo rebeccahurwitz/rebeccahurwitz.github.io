@@ -11,9 +11,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
-
-Heading 1
-======
 Professor: Brent Coull
 <br>
 Teaching Fellows: Tony Chen, Lucy Shen, Rebecca Hurwitz

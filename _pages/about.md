@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/banner.jpg     # <- path to your image
+  overlay_image: /images/teaching_banner.jpg     # <- path to your image
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

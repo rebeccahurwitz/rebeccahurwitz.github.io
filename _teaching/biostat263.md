@@ -7,7 +7,7 @@ date: 2024-05-01
 location: "Boston, MA"
 ---
 
-<br>       
+<div style="height:1px;font-size:1px;">&nbsp;</div>     
 
 Course Syllabus
 ======

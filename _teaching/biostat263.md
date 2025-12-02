@@ -8,6 +8,7 @@ location: "Boston, MA"
 ---
 
 ======
+
 Professor: Brent Coull
 <br>
 Teaching Fellows: Tony Chen, Lucy Shen, Rebecca Hurwitz

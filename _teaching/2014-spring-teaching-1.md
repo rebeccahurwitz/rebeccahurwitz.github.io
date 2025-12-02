@@ -2,7 +2,6 @@
 title: "BST 263: Statistical Learning"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Harvard University, Department of Biostatistics"
 date: 2024-05-01
 location: "Boston, MA"

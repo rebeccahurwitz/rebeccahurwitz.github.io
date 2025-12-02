@@ -7,9 +7,9 @@ date: 2024-05-01
 location: "Boston, MA"
 ---
 
-.
+       
 
-Heading 1
+Course Syllabus
 ======
 Professor: Brent Coull
 <br>

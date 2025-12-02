@@ -8,6 +8,7 @@ redirect_from:
 header:
   overlay_image: teaching_banner.jpg
   caption: ""
+  image_description: "hi"
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

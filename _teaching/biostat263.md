@@ -7,8 +7,8 @@ date: 2024-05-01
 location: "Boston, MA"
 ---
 
+Heading 1
 ======
-
 Professor: Brent Coull
 <br>
 Teaching Fellows: Tony Chen, Lucy Shen, Rebecca Hurwitz

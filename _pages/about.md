@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
   overlay_image: teaching_banner.jpg
-  caption: ""
-  image_description: "hi"
 ---
 
 Hello! My name is Rebecca - thank you for visiting my website! 

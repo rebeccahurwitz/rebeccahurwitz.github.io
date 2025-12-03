@@ -1,5 +1,4 @@
 ---
-layout: home
 permalink: /
 title: <br>
 author_profile: true

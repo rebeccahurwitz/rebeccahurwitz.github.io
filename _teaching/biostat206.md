@@ -1,7 +1,7 @@
 ---
 title: "BST 206: Introduction to Statistics for Medical Research"
 collection: teaching
-type: "Graduate course"
+type: "Teaching Fellow"
 venue: "Harvard University, Department of Biostatistics"
 date: 2023-06-01
 location: "Boston, MA"

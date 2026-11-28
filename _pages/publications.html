@@ -4,19 +4,46 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
-<br> <br> 
-<b>Hurwitz, R.</b> and Hahn, G. “Penalized principal component analysis using smoothing.” Statistics and Computing. (April 2025). <a href="https://doi.org/10.1007/s11222-025-10610-0">https://doi.org/10.1007/s11222-025-10610-0</a>
-<br> <br> 
-Bovenzi, I.*, Carmel, A.*, Hu, M.*, <b>Hurwitz, R.*</b>, McBride, F.*, Benac, L., Ayala, J., Doshi-Velez, F. “Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning.” AMIA Annual Symposium Proceedings. (May 2025). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12099440/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12099440/</a>
-<br> <br> 
-Swaminathan, A., Ramazan, F., Phadke, S., Wang, K., Lopez, I., Azzam, S., Ye, G., Chung, C., Wang, W., Stoll, S., Pham, I., <b>Hurwitz, R.</b>, Shah, S., Chuang, S., Verma, D., John, A., Adeli, E., and Shah, N. H. “CrisisBench: an evaluation suite for crisis counseling AI.” arXiv preprint. (September 2026). <a href="https://arxiv.org/abs/2611.21622">https://arxiv.org/abs/2611.21622</a>
-<br> <br> 
-<b>Hurwitz, R.</b> and Lake, E. “Linear Models in Machine Learning and AI for Health Research: A Systematic Review.” Manuscript Submitted, Under Review.
-<br> <br> 
-Swaminathan, A., Lopez, I., Phadke, S., Azzam, S., Verma, D., <b>Hurwitz, R.</b>, Pham, I., John, A., Garcia, S., Shah, N. “Evaluating crisis counseling LLMs for low resource settings.” Manuscript in Preparation.
+<style>
+  .pub { display: flex; gap: 1.2em; align-items: flex-start; margin: 1.5em 0; }
+  .pub img { width: 150px; height: 112px; object-fit: contain; flex-shrink: 0;
+             background: #fff; border: 1px solid #ddd; border-radius: 4px; }
+  @media (max-width: 600px) { .pub { flex-direction: column; } }
+</style>
+
+<div class="pub">
+  <img src="{{ base_path }}/images/spev.pdf" alt="Figure from Penalized principal component analysis using smoothing">
+  <div><b>Hurwitz, R.</b> and Hahn, G. “Penalized principal component analysis using smoothing.” Statistics and Computing. (April 2025). <a href="https://doi.org/10.1007/s11222-025-10610-0">https://doi.org/10.1007/s11222-025-10610-0</a></div>
+</div>
+
+<div class="pub">
+  <img src="{{ base_path }}/images/prune.pdf" alt="Figure from Pruning the Path to Optimal Care">
+  <div>Bovenzi, I.*, Carmel, A.*, Hu, M.*, <b>Hurwitz, R.*</b>, McBride, F.*, Benac, L., Ayala, J., Doshi-Velez, F. “Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning.” AMIA Annual Symposium Proceedings. (May 2025). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12099440/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12099440/</a></div>
+</div>
+
+<div class="pub">
+  <img src="{{ base_path }}/images/crisisbench.pdf" alt="Figure from CrisisBench">
+  <div>Swaminathan, A., Ramazan, F., Phadke, S., Wang, K., Lopez, I., Azzam, S., Ye, G., Chung, C., Wang, W., Stoll, S., Pham, I., <b>Hurwitz, R.</b>, Shah, S., Chuang, S., Verma, D., John, A., Adeli, E., and Shah, N. H. “CrisisBench: an evaluation suite for crisis counseling AI.” arXiv preprint. (September 2026). <a href="https://arxiv.org/abs/2611.21622">https://arxiv.org/abs/2611.21622</a></div>
+</div>
+
+<div class="pub">
+  <img src="{{ base_path }}/images/framelm.pdf" alt="Figure from Linear Models in Machine Learning and AI for Health Research">
+  <div><b>Hurwitz, R.</b> and Lake, E. “Linear Models in Machine Learning and AI for Health Research: A Systematic Review.” Manuscript Submitted, Under Review.</div>
+</div>
+
+<div class="pub">
+  <img src="{{ base_path }}/images/deployment.pdf" alt="Figure from Evaluating crisis counseling LLMs for low resource settings">
+  <div>Swaminathan, A., Lopez, I., Phadke, S., Azzam, S., Verma, D., <b>Hurwitz, R.</b>, Pham, I., John, A., Garcia, S., Shah, N. “Evaluating crisis counseling LLMs for low resource settings.” Manuscript in Preparation.</div>
+</div>
